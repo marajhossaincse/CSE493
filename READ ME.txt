@@ -1,0 +1,5 @@
+This project encrypts a message using a 128 bit key and decrypts it back. 
+The message is read from a file and encrypted.
+The cipher-text is saved is crypto.txt.
+The cipher-text can then be decrypted back to the plain text, which gets saved in cleartext.txt.
+
